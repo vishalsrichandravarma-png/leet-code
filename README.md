@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3524-find-x-value-of-array-i](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/3524-find-x-value-of-array-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
