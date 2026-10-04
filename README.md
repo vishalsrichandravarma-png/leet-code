@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0912-sort-an-array](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,4 +92,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vishalsrichandravarma-png/leet-code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
